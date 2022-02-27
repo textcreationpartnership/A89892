@@ -1,0 +1,422 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's royal stone at the head of the corner, through the wonderful working of almighty God. Set forth in a sermon preached in the Cathedral church at Gloucester, the 28th day of June, being a day of publick and solemn thanksgiving for His Majesties happy restauration. By Joh. Nelme, M.A. and Pastor of S. Michaels in the said city.</title>
+            <author>Nelme, John, b. 1618 or 19.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89892</idno>
+            <idno type="STC">Wing N415</idno>
+            <idno type="STC">Thomason E1034_9</idno>
+            <idno type="STC">ESTC R209037</idno>
+            <idno type="EEBO-CITATION">99867945</idno>
+            <idno type="PROQUEST">99867945</idno>
+            <idno type="VID">168920</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168920)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1034[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's royal stone at the head of the corner, through the wonderful working of almighty God. Set forth in a sermon preached in the Cathedral church at Gloucester, the 28th day of June, being a day of publick and solemn thanksgiving for His Majesties happy restauration. By Joh. Nelme, M.A. and Pastor of S. Michaels in the said city.</title>
+                  <author>Nelme, John, b. 1618 or 19.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Ja. Cottrel, for Henry Fletcher, at the sign of the three Gilt Cups in S. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168920:1" rendition="simple:additions"/>
+            <p>
+               <hi>ENGLAND</hi>'s Royal Stone At the Head of the Corner, Through the wonderful Working of ALMIGHTY GOD.</p>
+            <p>Set forth in A SERMON Preached in the Cathedral Church at <hi>Glouceſter,</hi> the 28<hi rend="sup">th</hi> day of <hi>June,</hi> Being a day of publick and ſolemn Thankſgiving for His Majeſties HAPPY RESTAURATION.</p>
+            <p>By <hi>Joh. Nelme,</hi> M. A. and Paſtor of S. <hi>Michaels</hi> in the ſaid City.</p>
+            <q>
+               <bibl>MICAH 7. 8, 9.</bibl>
+               <p>Rejoyce not againſt me, O mine enemy: when I fall, I ſhall ariſe; when I ſit in darkneſs, the Lord ſhall be a light unto m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>I will bear the indignation of the Lord, becauſe I have ſinned againſt him, un<g ref="char:EOLhyphen"/>til he plead my cauſe, and execute judgem<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt for me: he will bring me forth to the light, and I ſhall behold his righteouſneſs</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Ja. Cottrel,</hi> for <hi>Henry Fletcher,</hi> at the ſign of the three Gilt Cups in S. <hi>Pauls</hi> Church-yard. 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168920:2"/>
+            <pb facs="tcp:168920:2"/>
+            <head>To the truly Honourable Sir <hi>EDWARD MASSEY,</hi> Knight and Baronet; Sitting as Citizen of <hi>Glouceſter,</hi> IN The Honourable Houſe of COMMONS, Aſſembled in Parliament.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Sermon, in the hearing, was ſo accept<g ref="char:EOLhyphen"/>able to the Generality of that City (for which you ſerve in Parliament, with your worthy Colleague, <hi>James Stephens</hi> 
+               <abbr>Eſq</abbr> one of the Aldermen of the ſaid City) that it is <hi>really</hi> extorted from me, into the publique View. Their importunity ſhews their affection to the <hi>Subject Matter</hi> thereof, (I ſuppoſe) rather then to the <hi>Manner</hi> of its compoſure and handling, as being altogether too low for ſuch a Subject, in this day of <hi>Englands Liberty,</hi> by Gods Bleſsing reſtored to the <hi>Right Keeper</hi> thereof, his most ſacred Majesty. But however it be, ſuch as it is, I humbly crave your <hi>patronage</hi> thereof. <hi>England</hi> hath ſcarce been <hi>England</hi> for many years, till the day of
+<pb facs="tcp:168920:3"/>
+               <hi>His Majeſties happy Reſtauration,</hi> wherein you were, under God<g ref="char:punc">▪</g> ſo inſtrumental, even to the hazard of all, that you cannot but rejoyce in the pooreſt Memorials of its ac<g ref="char:EOLhyphen"/>compliſhment in ſo peaceable a manner. This Mercy is the Subject of this Sermon: Wherein ſo much of God was ſeen, that you muſt pardon me, if I allowed no time to ſpeak to the Honour of thoſe <hi>Humane</hi> (but never to be forgotten) <hi>Inſtruments,</hi> who put their Hands to this Work. It was a Day wherein <hi>GOD</hi> was to be <hi>glorified,</hi> and <hi>not Man.</hi> It is our work to improve it to his honour, who, in mercy to the Kingdom, ſet his Excellencie, your ſelf, with many other worthy Patriots, on, and proſpered you and them in the prudent managing of this Noble Under<g ref="char:EOLhyphen"/>taking. I am ſure, when we conſider our former Bon<g ref="char:EOLhyphen"/>dage, eſpecially in reſpect of our conſcience, which by rea<g ref="char:EOLhyphen"/>ſon of the power that was over us, we could hardly keep ſafe to our ſelves, without the violation of our outward peace, and hazarding<g ref="char:punc">▪</g> all that was near and dear to us; we cannot but acknowledge the mighty and merciful hand of God, in this remarkable turn of his Providence; prai<g ref="char:EOLhyphen"/>ſing and bleſsing his Name, that we are Reſtored to the li<g ref="char:EOLhyphen"/>berty of owning our own thoughts, and to the opportunity of endeavouring a reformation in a Legal, and not a Tu<g ref="char:EOLhyphen"/>multuary way; and the freedom of crying <hi>Hallelujah's</hi> for, and <hi>Hoſanna's</hi> to his Majeſties happy Return to his People. Which is, and ſhall be, the constant practice of</p>
+            <closer>
+               <dateline>From my Study in <hi>Gloucester,</hi> 
+                  <date>
+                     <hi>July</hi> 5. 1660.</date>
+               </dateline>
+               <salute>SIR,</salute>
+               <signed>Your Honours humbly devoted, John Nelme.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:168920:3"/>
+            <head>
+               <hi>England's Royal STONE</hi> AT The <hi>Head</hi> of the <hi>Corner.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>PSAL. 118. 21, 22, 23, 24, 25.</bibl>
+                  <p>I will praiſe thee: for thou haſt heard me, and art become my ſalvation.</p>
+                  <p>The ſtone, which the builders refuſed, is become the head ſtone of the Corner.</p>
+                  <p>This is the Lords doing: it is marvelous in our eyes.</p>
+                  <p>This is the day which the Lord hath made; we will rejoyce and be glad in it.</p>
+                  <p>Save now, I beſeech thee, O Lord: O Lord, I beſeech thee, ſend now proſperity.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Long Text is not always unmeet for a ſhort Diſcourſe, eſpecially, when the VVords, Matter, and Occaſion, do meet in one. Such a Text<g ref="char:punc">▪</g> of Scripture hath the Almighty fitted us with at this time. For the ſuitableneſs of the <hi>Words,</hi> with the <hi>Occaſion</hi> of our preſent meeting, I have no need to make an Apologie: Every one that hears them, can tell
+<pb n="2" facs="tcp:168920:4"/>
+that they <hi>ſound</hi> well enough to our purpoſe. But whether I may not miſ-apply them, will be a doubt: becauſe ſome of them are applied by holy men of God (and ſuch as ſpake by inſpiration too) unto a better <hi>King,</hi> and a better <hi>King<g ref="char:EOLhyphen"/>dom,</hi> then this days <hi>Feſtival</hi> doth bring unto our mindes, <hi>viz.</hi> Meſſiah the Prince<g ref="char:punc">▪</g> King Jeſus, and his ſpiritual King<g ref="char:EOLhyphen"/>dom upon earth. Our Saviour himſelf applies ſome of theſe words to the Jews rejection of Him from reigning over them, and to his wonderful exaltation to the King<g ref="char:EOLhyphen"/>dom notwithſtanding: and that in a <hi>prophetical</hi> way, be<g ref="char:EOLhyphen"/>fore<note place="margin">Mat. 21. 42</note> it came to paſs. Saint <hi>Peter</hi> applied it to the ſame purpoſe; but in an <hi>hiſtorical</hi> way, after the buſineſs was done and over. <hi>This is the ſtone which was ſet at nought of</hi>
+               <note place="margin">Act. 4. 11.</note> you <hi>builders, which</hi> is <hi>become the head of the Corner.</hi> And to this Hiſtory the ſame Apoſtle doth allude, when he calls Chriſt <hi>the livingſtone, that was diſallow'd indeed of men, but</hi>
+               <note place="margin">1 Pet. 2. 4.</note> 
+               <hi>choſen of God, and pretious.</hi> But to ſolve all doubts and ſuſpitions of our miſapplication of theſe words to the bu<g ref="char:EOLhyphen"/>ſineſs of this day, you muſt know, that it is no unuſual thing, in the Scriptures of the New Teſtament, to accom<g ref="char:EOLhyphen"/>modate ſeveral paſſages of the Old Teſtament, unto events that fell out in the new, eſpecially in the perſon of Chriſt, in whom many of thoſe things were acted and done over again in one reſpect, which were long before done in the perſons of others, in another reſpect. This is the Caſe here. VVhat fell out <hi>Chriſto Domino,</hi> unto Chriſt the Lord, in reſpect of his <hi>ſpiritual Kingdom,</hi> was acted long before, in <hi>Chriſto Domini,</hi> the <hi>Anointed</hi> of the Lord, King <hi>David,</hi> in reſpect of his temporal <hi>Kingdom:</hi> and now that it hath in the ſame reſpect been acted over again, in ano<g ref="char:EOLhyphen"/>ther of the Lords anointed Ones, <hi>King Charles;</hi> I cannot but look on this Pſalm, as <hi>a Pſalm</hi> for the <hi>day,</hi> and on the words read, as the fitteſt ſubject to be ſpoken to, on this ſolemn Occaſion.</p>
+            <p>For the whole Pſalm is nothing elſe, but a ſacred An<g ref="char:EOLhyphen"/>them, Hymn, or Song of praiſe, compoſed (as Interpre<g ref="char:EOLhyphen"/>ters agree) by King <hi>David</hi> himſelf, and delivered to the
+<pb n="3" facs="tcp:168920:4"/>
+Singers, to be ſung in the publick worſhip of God, on ſome ſolemn Feſtival. Which Feſtival is ſuppoſed to be occa<g ref="char:EOLhyphen"/>ſioned by <hi>David</hi>'s full ſettlement and eſtabliſhment in the Kingdom of <hi>Iſrael</hi> and <hi>Judah, to which</hi> he had been fore<g ref="char:EOLhyphen"/>anointed of God, and <hi>from which</hi> he had been kept by force ſeven years and ſix months, and <hi>in which</hi> he was twice diſturbed by the in-roads of the <hi>Philiſtins,</hi> ſo ſoon as ever the reſt of the Tribes were joyned unto him. Well, the whole Kingdom over <hi>Iſrael,</hi> as well as <hi>Judah,</hi> was now con<g ref="char:EOLhyphen"/>firmed unto <hi>David;</hi> the <hi>Philiſtins</hi> quaſhed, the Ark about to be brought home. <hi>David</hi> bethinks himſelf of return<g ref="char:EOLhyphen"/>ing thanks to God, in the publick Congregation. For which he compoſed this Anthem or Song of Praiſe, to bleſs rhe Lord for his many deliverances of him, and for the full ſettlement of him at the laſt, in the Kingdom whereunto he had fore-deſigned him. At this time, and on this occa<g ref="char:EOLhyphen"/>ſion, <hi>Mollerus</hi> and <hi>Muſculus</hi> ſuppoſe this Pſalm to be compoſed, and made uſe of. <hi>Calvin</hi> is not ſo punctual in the time, but ſaith, Whatſoever time it was compoſed, this was <hi>Davids</hi> drift in it. Having through many oppo<g ref="char:EOLhyphen"/>ſitions gotten full poſſeſſion of the Kingdom, he calls up<g ref="char:EOLhyphen"/>on all the people to give thanks unto God for it.</p>
+            <p>The Pſalm is digeſted into ſeveral parts: the King, People and Prieſts each bearing a part therein; the greateſt part falling to the Kings ſhare.</p>
+            <p>Firſt, we have the King <note n="a" place="margin">Verſ. 1, 2, 3, 4.</note> calling upon the People and Prieſts, and all that feared the Lord, to the publick acknowledgement of the Lords ſingular mercy; and ma<g ref="char:EOLhyphen"/>king a narrative of the ſingular goodneſs and mercy of God to him, in <note n="b" place="margin">Verſ. 5, 6, 7.</note> hearing his prayers, being on his ſide, and taking part with his friends: all which he mingleth and<note place="margin">Verſ. 6, 7, 14, 17.</note> purſueth with ſingular expreſſions of his abundant confi<g ref="char:EOLhyphen"/>dence in the Lord, and of the large experience he now had, how good a thing it was to truſt in God, rather then<note place="margin">Verſ. 8, 9.</note> in man or Princes; and of the ſtrong aſſurance he now had<note place="margin">Ver. 10, 11, 12.</note> (through Gods help) of vanquiſhing all his Enemies. At
+<pb n="4" facs="tcp:168920:5"/>
+length you have him calling upon the prieſts (whoſe Office<note place="margin">Ver<g ref="char:punc">▪</g> 19, 20.</note> it was) to open to him the gates of Gods Sanctuary, that he might go in, and praiſe the Lord.</p>
+            <p>At length, he comes in the text to make a ſhort <hi>Apo<g ref="char:EOLhyphen"/>ſtrophe</hi>
+               <note place="margin">21.</note> to God himſelf, repeating his reſolution to praiſe him; together with a general and particular account of that his reſolution.</p>
+            <p>General: <hi>Becauſe he had heard him, and was become his ſalvation.</hi>
+            </p>
+            <p>Particular: Becauſe <hi>the ſtone which the builders refuſed,</hi>
+               <note place="margin">22.</note> 
+               <hi>was now become the head ſtone of the corner.</hi>
+            </p>
+            <p>Thus far goes the Kings part. Now comes in the peo<g ref="char:EOLhyphen"/>ples part, that of the whole <hi>Chorus,</hi> (as it were) conſiſt<g ref="char:EOLhyphen"/>ing</p>
+            <p>1. In their acknowledgement of the hand of God in<note place="margin">23.</note> this Providence, and their admiration at the ſtrangeneſs of it. <hi>This is the Lords doing, it is marvelous in our eyes.</hi>
+            </p>
+            <p>2. In their joyful Acclamation to the happineſs of that<note place="margin">24.</note> days Feſtival. <hi>This is the day which the Lord hath made.</hi>
+            </p>
+            <p>3. In their acceptation of the Kings Royal invitati<g ref="char:EOLhyphen"/>on to that Dayes Duty. <hi>We will rejoyce, and be glad in it.</hi>
+            </p>
+            <p>4. In their humble, hearty, and ſeaſonable ſupplications<note place="margin">25.</note> for the proſperity of the King and Kingdom. <hi>Save now, I beſeech thee, O Lord: O Lord, I beſeech thee, ſend now proſperity.</hi>
+            </p>
+            <p>And then, behind our Text, follows the Prieſts part,<note place="margin">Verſ. 26.</note> praying for a bleſſing upon the King, welcoming him into the Tabernacle, ſaying, <hi>Bleſſed is he that cometh in the Name of the Lord;</hi> and upon the people, <hi>bleſſing them out of the Houſe of the Lord;</hi> acknowledging that, <hi>it was</hi>
+               <note place="margin">Verſ. 27.</note> 
+               <hi>the Lord, that had ſhewn them light;</hi> and inviting them to keep the Feſtival with joy and thanks unto God, <hi>to bind the ſacrifices with cords to the horns of the altar</hi> (according to the uſe of <hi>Gods ancient people,</hi> in their publick ſolemni<g ref="char:EOLhyphen"/>ties.)</p>
+            <p>
+               <pb n="5" facs="tcp:168920:5"/>All this ſeems to be concluded with a return of the<note place="margin">Piiſſimus Rex, Pſal<g ref="char:EOLhyphen"/>mum con<g ref="char:EOLhyphen"/>cludit. <hi>Muſc.</hi>
+               </note> Kings part: conſiſting of</p>
+            <p>A ſolemn repetition of his former reſolution: <hi>Thou art my God, and I will praiſe thee; thou art my God, I will exalt thee.</hi>
+            </p>
+            <p>And a ſolemn repetition of his former invitation to them all, to give thanks unto the Lord with him: <hi>O give thanks unto the Lord: for he is good: for his mercy endureth for ever.</hi>
+            </p>
+            <p>The whole Pſalm is contrived, as if it had been to be ſung in a ſolemn proceſſion to the Tabernacle on that ſo<g ref="char:EOLhyphen"/>lemn day, <hi>the ſingers going before, and the players on inſtru<g ref="char:EOLhyphen"/>ments following after.</hi> (As it was at the like ſolemnity a little after, at the bringing home of the Ark from <hi>Obed-Edom</hi>'s Houſe: for which proceſſional uſe, the 86<hi rend="sup">th</hi> Pſalm<note place="margin">Pſal. 86. 25</note> was penned, wherein we read of ſuch an order obſerved.) However it was, the words we have cull'd out of the Pſalm for the ſubject of this preſent diſcourſe, are this day again fulfilled in our ears. <hi>Our Gracious Soveraign</hi> (for his part) being, after a long and tedious exile, reſtored to his people, and his people to him; as he hath reſolved to render the tribute of praiſe and thankſgiving to Almighty God in his own perſon this day, for his happy reſtauration: ſo he hath by his Royal Proclamation required all his Sub<g ref="char:EOLhyphen"/>jects of <hi>England</hi> and <hi>Wales</hi> to joyn with him in this Duty. And Subjects (for their part) never more joyfully conſen<g ref="char:EOLhyphen"/>ted to a duty of that nature, then I think and hope they do, over all the Kingdom this day. Whilſt the King ſaith, <hi>I will praiſe thee: for thou haſt heard me, and art become my Salvation;</hi> methinks, I hear all the people, like men aſtoniſhed at the wonderfulneſs of the mercy, crying out, <hi>This is the Lords doing, and it is marvelous in our eyes:</hi> and (like men over-joyed) making loud acclamations to the happineſs of this days Feſtival; gladly running to the Duty, whereunto they have this Royal Invitation, ready to give out their <hi>Hoſanna,</hi> their well-wiſhes and prayers for the King and Kingdom, upon this happy revolution of affairs
+<pb n="6" facs="tcp:168920:6"/>
+into that hopeful poſture, wherein now they ſtand.</p>
+            <p>I begin firſt with the Kings part, his pious reſolution to praiſe God; with the general and particular account of that his reſolution.</p>
+            <p>And firſt, of the account in General, which he gives of this reſolution, verſe 21.</p>
+            <q>I will praiſe thee: for thou haſt heard me, and art be<g ref="char:EOLhyphen"/>come my ſalvation.</q>
+            <p>In which words we have the pattern of an afflicted King, and a praying King; a delivered King, and a praiſe-returning King. <hi>David</hi> is the pattern for all this.</p>
+            <p>He was an afflicted King. Some would have this ex<g ref="char:EOLhyphen"/>preſſed in the Text: <hi>I will praiſe thee: for thou haſt afflict<g ref="char:EOLhyphen"/>ed me.</hi> The Original word will bear both Interpretations;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Thou haſt afflicted me,</hi> or, <hi>Thou haſt anſwered me.</hi> But how<g ref="char:EOLhyphen"/>ever, his afflicted condition is implyed enough in the news we have in the Text of the return which God had made unto his prayers.</p>
+            <p>Again, He was a praying King. <hi>Thou haſt heard me,</hi> or <hi>thou haſt anſwered me.</hi> It ſhould ſeem then, that he had been calling and crying unto the Lord.</p>
+            <p>Yet thirdly, He was a delivered King. <hi>Thou art become my ſalvation.</hi>
+            </p>
+            <p>And laſt of all, He was a praiſe-returning King. <hi>There<g ref="char:EOLhyphen"/>fore I will praiſe thee.</hi>
+            </p>
+            <p>From all this, I ſhall point out unto you three things of ſpecial and ſeaſonable remark, which I ſhall lay down as the ground-work of all that I have to ſay from this Verſe, and them that follow in the Text, on this ſolemn occaſion.</p>
+            <p>The Firſt is,</p>
+            <q>That, <hi>God is wont ſometimes to exerciſe the Kings of</hi>
+               <note place="margin">1 Note.</note> 
+               <hi>the earth, yea, and the beſt of the Kings of the earth, with afflicted conditions.</hi>
+            </q>
+            <p>
+               <pb n="7" facs="tcp:168920:6"/>
+               <hi>David</hi> was a man after Gods own heart, a King for Gods turn, (if I may ſo ſpeak) called to the Kingdom by God himſelf, by his eſpecial appointment and deſignation. But yet he muſt taſte of the bitter cup of affliction, before he came there; and many a ſharp ſhower he muſt undergo, before he could wear the Crown which God had deſigned for him. God trained him up for the Royal Dignity in the School of Afflictions, and ſuch afflictions too, as one would have thought might ſet him beyond a poſſibility of ever recovering the Crown of <hi>Iſrael</hi> and <hi>Judah.</hi> He li<g ref="char:EOLhyphen"/>ved a long while in Exile, skulking now here, now there, for his ſafety. Sometime we hear of him in the woods;<note place="margin">1 Sam. 23. 15, 25.</note> now in the Wilderneſs of <hi>Ziph,</hi> then in the Wilderneſs of <hi>Maon;</hi> as ſoon again we hear of him in a Cave. One<note place="margin">1 Sam. 24. 1 1 Sam. 21. 12, 13.</note> while we have him in a Diſguiſe (and a ſtrange one too) for fear of being known, and taken for what (indeed) he was. Another while, we have him ſerving in the wars of<note place="margin">1 Sam. 27.</note> a forraign Prince, and beholding to him for his ſubſiſtence, till the Lords of the Country ſuſpected him, and would by<note place="margin">1 Sam. 29.</note> no means ſuffer his tarriance among them. In this Exile of his, he was under a temptation to go and ſerve other<note place="margin">1 Sam. 26. 19.</note> gods. At leaſtwiſe, the Court-Politicians hoped, by the poſſibility of ſuch a revolt, to keep him out from ever re<g ref="char:EOLhyphen"/>turning more. And when, upon the death of <hi>Saul,</hi> he was crowned King of <hi>Judah</hi> in <hi>Hebron;</hi> yet the reſt of the Tribes had no portion in him; <hi>Iſhboſheth</hi> and <hi>Abner</hi> kept him out: and at length, when, by a ſtrange contexture of Providences, all <hi>Iſrael</hi> was brought under his Juriſdiction, the <hi>Philiſtins</hi> invaded his Territories. And many diſquiets he had, before all was firmly ſettled to him. And when all was as firm as the general conſent of the people could make it, his own Son roſe up in Rebellion againſt him:<note place="margin">2 Sam. 15.</note> and after him, <hi>Sheba</hi> the Son of <hi>Bichri</hi> blew a Trumpet of<note place="margin">2 Sam. 20.</note> ſedition, to draw away his people from him. Though he were a King to Gods minde, as much as ever any; yet he was ttained up in, and inured to afflictions, both before he came to, and after that he enjoyed the Crown.</p>
+            <p>
+               <pb n="8" facs="tcp:168920:7"/>I minde you of this point the rather, for two Uſes I would have to be made thereof.</p>
+            <p>Firſt, That no man ſhould think ſo highly of himſelf, be<g ref="char:EOLhyphen"/>cauſe of his Earthly Dignities, above others, as if he were therefore exempted from the afflicting hand of God. <hi>Princes,</hi> they are but <hi>Men,</hi> though they be <hi>Men in Ho<g ref="char:EOLhyphen"/>nour,</hi>
+               <note place="margin">Pſal. 82. 6.</note> and <hi>Gods</hi> (in a manner) ſtanding in the place of <hi>Gods Vicegerents</hi> upon the earth. And though they be above the reach of earthly Judicatures; yet there is an <hi>Higher</hi>
+               <note place="margin">Eccleſ. 5. 8.</note> 
+               <hi>then they,</hi> who can, in what way beſt pleaſeth him, take <hi>them</hi> to task, pouring out ſtrange contempts upon them,<note place="margin">Job 12. 21.</note> and their Families, when they prove diſobedient to him. Again, as they are common Bleſſings to their people, the Fathers of their Country; ſo God knows how to puniſh a ſinful Land, by deveſting them of their lawful Princes, and ſuffering Tyrants and Uſurpers to rule over them. Yea,<note place="margin">Hoſ. 12. 11.</note> God thinks fit ſometimes to train up Princes to their Crowns, in the School of Adverſity, that they might not forget the Lord, but remember that they hold all they have of him, and that all the ſhields of the earth belong unto <hi>God,</hi> to place or diſplace them at pleaſure; and that Crowns and Scepters are wholly at his diſpoſe: and that he might tye them in a ſtricter bond of ſubjection to himſelf, whilſt he denieth them, or holds from them a while, the Prero<g ref="char:EOLhyphen"/>gative of ruling over others. No man then can be ſo high, as to plead an exemption from Gods afflicting hand.</p>
+            <p>Secondly, that no man preſume to enter into Gods Judgement-ſeat, and paſs their Verdict upon the Kings and Princes of the earth, as accurſed, and hated, and re<g ref="char:EOLhyphen"/>jected of God, becauſe of the ſad afflictions which do ſome<g ref="char:EOLhyphen"/>times befall them and their families. It is enough for a <hi>Shemei,</hi> when the Rebellion of <hi>Abſalom</hi> took place, to go<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sam. 16 7, 8.</note> out, and curſe <hi>David.</hi> But let none of <hi>Shemei</hi>'s language come out of our mouths, to vaunt it over the Lords anoint<g ref="char:EOLhyphen"/>ed Ones, in their afflictions. The Scripture ſaith, <hi>Bleſſed are they, O Lord, whom thou chaſteneſt.</hi> And ſhall we call them accurſed becauſe they are chaſtiſed? God forbid!
+<pb n="9" facs="tcp:168920:7"/>
+And yet (the more is the pity) we have not wanted in our times, men as inconſiderate as this comes to (to ſay no worſe) to make this unchriſtian uſe of the ſufferings of our <hi>preſent Soveraign,</hi> and His <hi>Royal Father of glorious Me<g ref="char:EOLhyphen"/>mory,</hi> as if the Family of the <hi>Stuarts</hi> were accurſed of God, and caſt out, and forſaken, as much as ever <hi>Saul</hi>'s was. And all this, upon deſign to harden people in their diſloyalty to their King, and Uſurpations over their fellow-ſubjects. But all this, happy Experience now tells us, was a judging before the time. <hi>David</hi> (you ſee) might be an afflicted King, and yet a King after Gods own heart.</p>
+            <p>The ſecond Note obſervable from the words, is this.</p>
+            <q>Even Kings themſelves are, and muſt be beholding to<note place="margin">2 Note.</note> God for their Deliverances, Settlements and Eſta<g ref="char:EOLhyphen"/>bliſhments in their Kingdoms.</q>
+            <p>
+               <hi>Thou haſt heard me, and thou art become my ſalvation,</hi> (ſaid King <hi>David:</hi>) He aſcribed his inſtauration and eſta<g ref="char:EOLhyphen"/>bliſhment in the Kingdom, neither to his wiſdom and poli<g ref="char:EOLhyphen"/>cy, nor to his proweſs and valour; and yet he was a man good at both: He confeſſeth himſelf ſolely beholding to God for this Deliverance. This (indeed) was <hi>Davids</hi> con<g ref="char:EOLhyphen"/>ſtant wont ſo to do: as appeareth not onely in the Text, and the Pſalm before us, but alſo in other Pſalms. Still he expreſſeth himſelf as beholding to God for all that he had, and all that was in any kinde worth taking notice of, in him. He calls him his Strength, Rock, Fortreſs, his Deli<g ref="char:EOLhyphen"/>verer,<note place="margin">Pſa. 18. 12.</note> the Horn of his ſalvation, and his High Tower. His <hi>Wonderful Eſcapes</hi> he attributes to God. By thee <hi>I have</hi>
+               <note place="margin">29. V. 33.</note> 
+               <hi>run through a troop, and by my God have I leaped over a wall.</hi> He was a man that was light of foot. One pair of heels was of more uſe to him, then two pair of hands (as our Engliſh Proverb goes.) Now this ſwiftneſs of foot in him, he attributes to <hi>God.</hi> He was a ſtout man; but it was <hi>God that taught his hands to war, that a bow of ſteel was bro<g ref="char:EOLhyphen"/>ken</hi>
+               <note place="margin">34.</note>
+               <pb n="10" facs="tcp:168920:8"/>
+               <hi>by his arms. God delivered him from the ſtrivings of the</hi>
+               <note place="margin">43.</note> 
+               <hi>people; avenged him, and ſubdued the people under him.</hi> Of<note place="margin">47.</note> the like import are many paſſages in the next Pſalm ſave two. <hi>David</hi> reckoned it all upon Gods ſcore, that was to<note place="margin">
+                  <hi>Pſa.</hi> 21. 1, 2. ſeqq.</note> his advantage, in the ſubjection of the hearts of all Iſ<g ref="char:EOLhyphen"/>rael to him, and in the ſettlement of him in the dominion overthem.</p>
+            <p>And this is the conſtant Language of good <hi>Kings, who<g ref="char:EOLhyphen"/>ever</hi> elſe be the <hi>inſtruments,</hi> or <hi>whatever</hi> elſe be the <hi>means</hi> of bringing them to their Crowns. The Queen of <hi>Sheba</hi>'s<note place="margin">1 Kin. 10. 9</note> Language to <hi>Solomon,</hi> was, <hi>The Lord thy God delighted in thee, to ſet thee on the throne of Iſrael:</hi> And <hi>Solomon</hi> him<g ref="char:EOLhyphen"/>ſelf was not a whit behind her in this acknowledgement;<note place="margin">2 Chro. 1. 8</note> 
+               <hi>Thou, O God, hast ſhewed great mercy unto David my father, and haſt made me to reign in his ſtead.</hi> Yea, <hi>Cyrus</hi> the King<note place="margin">2 <hi>Chro</hi> 36. ult.</note> of <hi>Perſia,</hi> had as much Religion as this came to: <hi>The king<g ref="char:EOLhyphen"/>doms of the earth hath the Lord God of heaven given me.</hi> None but ſuch a one as the proud Aſſyrian, will dare to<note place="margin">Iſai. 10. 13.</note> ſay, <hi>By the ſtrength of my hand I have done this,</hi> or that; <hi>and by my wiſdom, for I am prudent.</hi> The proud Ax boa<g ref="char:EOLhyphen"/>ſtead it ſelf againſt him that hewed with it; and the pre<g ref="char:EOLhyphen"/>ſumptuous Saw againſt him that ſhook it. <hi>Nebuchadnez<g ref="char:EOLhyphen"/>zar</hi> took too much upon him, when he vaunted on that<note place="margin">Dan. 4. 30.</note> manner, <hi>Is not this great</hi> Babylon <hi>that I have built, by the might of my power, and for the honour of my Majeſty?</hi> Not a word was there of his being beholding to God in all that ſpeech: But God preſently taught him by ſad expe<g ref="char:EOLhyphen"/>rience, that he was wholly beholding to him for his King<g ref="char:EOLhyphen"/>dom; and that it was in his hand both to give it to him, and to take it from him. It was a cloſe rebuke which God once gave unto the Prince of <hi>Tyrus</hi> for his ſacrilegious pride: his heart was lifted up, and he ſaid of himſelf, that he was a <hi>god, and ſate in the ſeat of God:</hi> But God ſaid he would make him know that he was <hi>a man:</hi> for he would bring ſtrangers, even the terrible of the Nations upon him, with drawn ſwords againſt him: And them (ſaith God in an holy Sarcaſm) <hi>Wilt thou yet ſay before him that</hi>
+               <note place="margin">Ezek 28. 9.</note>
+               <pb n="11" facs="tcp:168920:8"/>
+               <hi>ſlayeth thee, I am God? But thou ſhalt be a man, and no God in the hand of him that ſlayeth thee.</hi> And leſt he ſhould miſtake himſelf, as if he had ſet himſelf in that glorious ſtate, for which the Princes of <hi>Tyrus</hi> were famous in the world, as being like a tree planted in the garden of God, wanting nothing that Nature or Art could furniſh him<note place="margin">V. 14.</note> withal<g ref="char:punc">▪</g> God tells him plainly, <hi>I have ſet thee ſo.</hi> Though he were, for his Royal Dignity, a glorious Creature, yet was he ſo by Gods Creation, and not his own. God keeps this to himſelf as his Royal Prerogative; <hi>By me Kings</hi>
+               <note place="margin">Prov. 8. 15.</note> 
+               <hi>reign, and Princes decree juſtice:</hi> They could neither have,<note place="margin">Joh. 19. 11.</note> nor exerciſe <hi>any power<g ref="char:punc">▪</g> were it not given them from above.</hi> It is to God <hi>(really)</hi> that even Kings and Princes, as great as they are in the earth, are beholding for their delive<g ref="char:EOLhyphen"/>rances, ſettlements and eſtabliſhments in their King<g ref="char:EOLhyphen"/>doms.</p>
+            <p>Much might be learnt from hence, that I cannot now in<g ref="char:EOLhyphen"/>ſiſt on. The Kings and Princes of the earth might be ad<g ref="char:EOLhyphen"/>viſed from hence to be ſo wiſe, as to own, honour and ſerve this their Deliverer<g ref="char:punc">▪</g> Setler and Eſtabliſher; to keep their Kingdoms for God<g ref="char:punc">▪</g> and lay out all their power to keep their <hi>Kingdoms</hi> in ſubjection to <hi>God<g ref="char:punc">▪</g>
+               </hi> to execute judge<g ref="char:EOLhyphen"/>ment and juſtice according to the will of God; to devote themſelves, their power, their lives, their all, to the mag<g ref="char:EOLhyphen"/>nifying or making <hi>his</hi> Name great in their Kingdoms, who hath been their Saviour, Settler and Eſtabliſher in ſo great power under him, over their people. <hi>Davids</hi> reſolution (in the 101 Pſalm) when he came to the Crown, is a moſt excellent pattern for all the Kings and Princes of the earth in this reſpect. Read the Pſalm throughout.</p>
+            <p>But I need not dwell upon this, being abundantly pre<g ref="char:EOLhyphen"/>vented by the thankful Expreſſions of our <hi>Soveraign</hi> to God for his happy reſtauration, attributing his Delive<g ref="char:EOLhyphen"/>rances and Return to, and ſettlement in his Kingdom ſole<g ref="char:EOLhyphen"/>ly to him; and his pious Reſolutions and Profeſſions to ſtudy to ſerve and honour that God, who hath heard his Prayers, and is become his ſalvation: VVhich leads
+<pb n="12" facs="tcp:168920:9"/>
+me to the third Note obſervable from the words, <hi>viz.</hi> That</p>
+            <q>Prayers and Praiſes are Duties, wherein even Kings<note place="margin">3 Note.</note> themſelves are bound to wait upon God.</q>
+            <p>Let <hi>David</hi> be the pattern. He was a praying, and a praiſe-returning King. <hi>I will praiſe thee, for thou haſt heard me.</hi> He had been praying (it ſhould ſeem) and cry<g ref="char:EOLhyphen"/>ing to God, and now he was reſolved upon prayſing him. In the time of his Exile, <hi>Prayer</hi> was the work that he de<g ref="char:EOLhyphen"/>voted himſelf to. <hi>Praiſe</hi> was the work that he vowed to perform whenever God ſhould ſet him at liberty. There<g ref="char:EOLhyphen"/>fore in his <hi>Exile,</hi> he prayeth, <hi>Hold not thy peace, O God of</hi>
+               <note place="margin">Pal. 109. 1, 2, 3, 4.</note> 
+               <hi>my praiſe:</hi> This was his practiſe, whilſt <hi>the mouth of the wicked, and the mouth of the deceitful were opened againſt him, and they ſpake againſt him with a lying tongue; whilſt they compaſſed him about with words of hatred, and fought againſt him without a cauſe; whilſt for his love to them, they were ad<g ref="char:EOLhyphen"/>verſaries to him, he gave himſelf unto prayer.</hi> But now that God had heard his prayer, and all ſucceeded to his hearts content, you have his mouth filled with thankſgi<g ref="char:EOLhyphen"/>vings, calling all the people to joyn with him in offering up theſe Euchariſti<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Devotions to the God of his mercies. Though a King, yet he did not count theſe pieces of piety too lowe for him.</p>
+            <p>This point is much ſtrengthned by the former: For if even they are, and muſt be beholding to <hi>God</hi> for their deli<g ref="char:EOLhyphen"/>verances, ſettlements and eſtabliſhments in their King<g ref="char:EOLhyphen"/>doms; then it is but fit, that even they ſhould wait upon <hi>God</hi> in their duties, praying to him for the mercies they want, and praiſing him for thoſe which they have recover<g ref="char:EOLhyphen"/>ed by the prevalency of importunate prayers to the <hi>God</hi> of their ſalvation, and calling upon all their Subjects to joyn with them in ſo doing. This was not onely King <hi>Davids</hi> practiſe, but the practiſe of all the good Kings of <hi>Judah;</hi> as may be ſeen in the examples of <hi>Jehoſhaphat</hi> and<note place="margin">2 Chro. 20 2 Chro 29</note> 
+               <hi>Hezekiah.</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:168920:9"/>All that I ſhall learn you from hence, is,</p>
+            <p>Firſt, to acquaint you, that <hi>it is good news to a people, when the Kings, whom the Lord hath ſet over them, are pray<g ref="char:EOLhyphen"/>ing, and praiſe-returning Kings.</hi>
+            </p>
+            <p>It is (you ſee) the Character and practiſe of <hi>Gods Da<g ref="char:EOLhyphen"/>vids,</hi> ſuch as are Kings after Gods own heart, to pay theſe juſt tributes to the Divine Majeſty, to whom they are be<g ref="char:EOLhyphen"/>holding for their Crowns and Scepters.</p>
+            <p>It is not onely a good example of piety in them, for o<g ref="char:EOLhyphen"/>thers to walk by; but it is a practiſe that promiſeth much of happineſs not onely to their royal perſons, but to their Kingdoms too. A praying King will have the better of<note place="margin">2Chro. 33. 13.</note> it firſt or laſt. <hi>Manaſſeh</hi> (you know) loſt his Kingdom; but <hi>Manaſſeh</hi> recovered it again by true humiliation, and unfeigned prayer to God. And <hi>David</hi> by his prayers did not onely do himſelf good, but the Kingdom too. He out<g ref="char:EOLhyphen"/>prayed<note place="margin">2 Sam. 15. 31.</note> 
+               <hi>Abſalom</hi>'s conſpiracy, and <hi>Achitophel</hi>'s policy, and the Confuſions that befel his Kingdom by their means. He prayed away the three years famine that fell upon his<note place="margin">2 Sam. 21. 1</note> Land becauſe of the Gibeonites whom <hi>Saul</hi> had ſlain, con<g ref="char:EOLhyphen"/>trary to the League that <hi>Joſhua</hi> had entred into with them. He prayed a ſtop to the peſtilence, that raged among his<note place="margin">2 Sam. 24. 17.</note> people.</p>
+            <p>A praying King is, as pious to himſelf, ſo profitable to<note place="margin">2 King. 19. 19, 35.</note> all his Subjects. <hi>Hezekiah</hi> prayed 185000 Aſſyrians dead in one night. <hi>Jehoſhaphat</hi> had a victory over the Moabites,<note place="margin">2 Chro. 20. 6, 22.</note> Ammonites, and them of Mount <hi>Seir,</hi> brought in upon the wings of his prayers. They are marvellous things that praying Kings may do with God. I mind you not of this for nothing, (Beloved:) For I do it to aggravate the mer<g ref="char:EOLhyphen"/>cy of this day, that <hi>God hath ſet a King of Prayers over us;</hi> not onely <hi>paſſively</hi> ſo, as one whoſe happineſs and reſtau<g ref="char:EOLhyphen"/>ration hath been the ſubject of the prayers of Gods people for many years; but alſo <hi>actively</hi> ſo, as one, who, in his exile, is famed by ſuch as knew his Converſation, for fre<g ref="char:EOLhyphen"/>quent and conſtant converſe with <hi>God</hi> in this duty: which I muſt needs ſay is a promiſing <hi>Omen</hi> of a great deal of happineſs to our Land in his return.</p>
+            <p>
+               <pb n="14" facs="tcp:168920:10"/>And now, that the tribute of praiſe is, by his Majeſties Proclamation, to be returned to God for this mercy this day, not onely by himſelf, but by all his people;</p>
+            <p>This may ſerve (in the ſecond place) to teach you the juſtifiableneſs, and the needfulneſs of this Duty. His Ma<g ref="char:EOLhyphen"/>jeſty doth but write after <hi>Davids</hi> Copy in it, and the Co<g ref="char:EOLhyphen"/>py of the good Kings of <hi>Judah.</hi> And we do but keep up the ancient cuſtome of the Church and people of God in ſo doing. Our Precedents for this practiſe are unqueſtio<g ref="char:EOLhyphen"/>nably authentick.</p>
+            <p>Further yet, it is good reaſon <hi>We</hi> ſhould be <hi>praiſing God:</hi> For <hi>God</hi> hath heard <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> and is become <hi>Our</hi> ſalvation. As He hath granted the deſires of the <hi>Kings heart,</hi> and the requeſt of the <hi>Kings lips;</hi> ſo hath he granted the deſires of <hi>his peoples hearts,</hi> and the requeſts of his <hi>peoples lips.</hi> I dare ſay, whole Armies of Prayers have by Gods people (though not ſo publickly as might be wiſhed, through the iniquitie of the times) been diſpatched from earth to hea<g ref="char:EOLhyphen"/>ven, about this very mercy that we are making mention of before the Lord this day. And if it becomes <hi>His Ma<g ref="char:EOLhyphen"/>jeſty</hi> to ſecond the Returns of <hi>His</hi> prayers, with returns of praiſe; it ſurely behoves <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> to ſecond the returns of <hi>Our</hi> prayers for him, with returns of praiſes for him.</p>
+            <p>Beſides, this is no other then a Goſpel-Duty. We are commanded to make <hi>Thankſgivings</hi> to <hi>God</hi> for Kings, and<note place="margin">1 Tim. 2. 1.</note> all in authority, as well as to make <hi>Supplications</hi> and <hi>inter<g ref="char:EOLhyphen"/>ceſſions</hi> for them. Much more muſt we make thankſgivings for them, when they are beſtowed on us by way of return to our ſupplications, and interceſſions for them. <hi>God, the King of kings</hi> hath enjoyned us hereunto, as well as his <hi>Vicegerent</hi> upon earth. It is Gods commandment as well as the Kings commandment, that we are called to obey this day.</p>
+            <p>And (for further ſatisfaction) conſider; It is a well<g ref="char:EOLhyphen"/>grounded and every way a well-warranted Duty, which a Chriſtian may go about without doubting. Here be no ſnares in it, to entangle the conſciences of men: ſome
+<pb n="15" facs="tcp:168920:10"/>
+ſuch as we have had ere now, when <hi>the throne of iniquity was up, and miſchief eſtabliſhed by a Law,</hi> and <hi>Englands miſe<g ref="char:EOLhyphen"/>ries</hi> were by a Law, to be reputed and taken for <hi>Englands mercies;</hi> and <hi>through the inſolence of proſpering iniquity,</hi> men were forced to miſerable ſhifts, to preſerve their peace. There is nothing of a <hi>puzzling</hi> nature here. The Mercy that we have before us, is a <hi>plain mercy:</hi> may it be but a <hi>ſanctified mercy,</hi> I ſhall venture to prefer it before any tem<g ref="char:EOLhyphen"/>poral mercy, that <hi>England</hi> ever yet received.</p>
+            <p>For (which is another argument to quicken you to this days Duty) conſider, God is become <hi>our Salvation,</hi> in be<g ref="char:EOLhyphen"/>coming <hi>Salvation to our King.</hi> It is a ſalvation of common concernment, this. For in delivering him from the plots and conſpiracies that were laid againſt his Perſon and Crowns, and ſettling him in the throne over us, he hath</p>
+            <p>Firſt, ſaved us from all the miſchiefs that did, and muſt of neceſſity accompany an enforced change of Govern<g ref="char:EOLhyphen"/>ment. From the miſchiefs of <hi>Anarchy, <g ref="char:V">Ʋ</g>ſurpation, De<g ref="char:EOLhyphen"/>mocracy,</hi> and (which is worſt of all) <hi>of the Arbitrary power of the Sword.</hi>
+            </p>
+            <p>Secondly, by this means God hath ſaved unto us our right to the beſt of Governments, the Honour and Freedom of our Parliaments; which can never be preſerved but by the Union of the Royal Head to that Honourable Body.</p>
+            <p>Once more: God by this means hath ſaved us from the violence that was offered to our Laws and Liberties, and Properties. Before, men could ſcarce ſay what was Law. Our learned Lawyers were puzzled what to pronounce for Law. What men would have paſs for Law, they durſt not ſubſcribe. What was Law indeed, they durſt not utter. Who were the <hi>Keepers of our Liberties,</hi> none could tell: but the general out-cry, was, that they were <hi>kept from</hi> them, not <hi>for</hi> them. While ſome might do what they would, few could do what they ſhould. And ſuch Confu<g ref="char:EOLhyphen"/>ſion befel many Families, through the unjuſt and enforced alienation from them of what was properly their own, as is unſpeakable. From all theſe miſchiefs (we truſt)
+<pb n="16" facs="tcp:168920:11"/>
+the Lord hath now deliver'd us in his Majeſties Return.</p>
+            <p>But not to ſtay upon theſe general Arguments, to quick<g ref="char:EOLhyphen"/>en you to this duty, give me leave now to take up the par<g ref="char:EOLhyphen"/>ticular account, which the Royal Pſalmodiſt (in the Text) gives of this Reſolution of his, and to ſee whether that will not fit our caſe too. <hi>I will praiſe thee:</hi> (ſaith he) <hi>for the ſtone, which the builders refuſed, is become the headſtone of the corner.</hi>
+            </p>
+            <p>Which words are ſpoken <hi>proverbially,</hi> by way of alluſion to the practice of <hi>fooliſh builders:</hi> who, though they have a ſtone ready at hand, every way fitted for the moſt uſeful and eminent place in the building, do yet caſt it by among the rubbiſh, as uſeleſs and unſerviceable, and (it may be) mar all the building for want of that ſtone; until better builders come in place, and correct their folly, and ſet that very ſtone at the head of the corner, the chiefeſt place in the building. This is the alluſion.</p>
+            <p>The meaning of it, as applicable to <hi>King David, the Type,</hi> is briefly this. <hi>David</hi> was fitted of God every way to ſucceed <hi>Saul</hi> in the Kingdom; there was not ſuch a man again to be found, for <hi>Iſrael</hi>'s turn, as <hi>David</hi> was. It was in love to <hi>Iſrael,</hi> that God had anointed <hi>David</hi> for this ſervice. He had ſquared and framed, and fitted him ſo, that there was not a fitter Stone to be found, in all the heap to make the chief-corner-ſtone of, in the building of <hi>Iſra<g ref="char:EOLhyphen"/>el</hi>'s Commonwealth, then he. But <hi>Saul,</hi> and his Counſel<g ref="char:EOLhyphen"/>lours, and the great men of <hi>Iſrael</hi> (who are here compa<g ref="char:EOLhyphen"/>red to <hi>Builders</hi>) would not ſo much as let him <hi>lie in the buil<g ref="char:EOLhyphen"/>ding,</hi> not ſuffer him to have any place of abode, in the Lords inheritance, but hunted him up and down, as a Par<g ref="char:EOLhyphen"/>tridge is hunted in the mountains; laid him utterly aſide, made him the <hi>Common Enemy.</hi> And, when, after <hi>Saul</hi>'s death, <hi>David</hi> was crowned King in <hi>Hebron</hi> over <hi>Judah,</hi> the Elders of the reſt of the Tribes would not hear of his being King over them, no not they. Till at length, God takes the building in hand himſelf, and by his over-ruling providence, <hi>ſets this ſtone at the head of the corner,</hi> beyond
+<pb n="17" facs="tcp:168920:11"/>
+all expectation, ſeats him in the throne of <hi>Iſrael</hi> and <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> both. Both the walls of this <hi>politick Structure</hi> now met in <hi>David,</hi> as the head-corner-ſtone, that kept them together.</p>
+            <p>The meaning of the words, as applicable unto <hi>King Chriſt, the Antitype,</hi> is briefly this: <hi>Jeſus</hi> was the <hi>Meſſi<g ref="char:EOLhyphen"/>ah</hi> that was to come, anointed of the Father, to be the Sa<g ref="char:EOLhyphen"/>viour of his People, the <hi>King</hi> and <hi>Head</hi> of the Church. Now the chief <hi>Prieſts</hi> and <hi>Elders</hi> of the Jews (who are compared to builders) inſtead of giving him that honour in the building, that he ought to have had, utterly laid him aſide: perſecuted him to the death, as unfit to live, thruſt him out of the world in a moſt ſhameful manner. But yet for all this, whether they would or no, God takes the buil<g ref="char:EOLhyphen"/>ding into his own hands; raiſes <hi>Jeſus</hi> up again from the dead, takes this pretious Stone out of the rubbiſh, and ſets it in <hi>the head of the Corner,</hi> even <hi>at his own right hand in heavenly places, far above all principality and power, and might, and dominion, and every name that is named, not onely in this world, but alſo in that which is to come,</hi> &amp;c.</p>
+            <p>The words are under conſideration at this time, as ap<g ref="char:EOLhyphen"/>plicable to <hi>Davids</hi> Caſe (which is the prime import of the Pſalm) and they being thus briefly, but truly opened, your thoughts cannot but out-run my words, to the making a pertinent application thereof. They are urged by <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> as an Argument of his reſolution to praiſe God. I ſhall urge this for the ſame end upon you, to quicken you to this days Duty. For which end, I beſeech you to conſi<g ref="char:EOLhyphen"/>der with me,</p>
+            <list>
+               <item>1. Englands late Miſery.</item>
+               <item>2. Englands preſent Mercy.</item>
+            </list>
+            <p>Firſt, <hi>Englands late Miſery by falling into the hands of fooliſh Builders;</hi> who took upon them to ſet faſt the <hi>Fa<g ref="char:EOLhyphen"/>brick</hi> of our tottering State, that was ready to fall aſunder by the unhappy Diviſions that fell out between <hi>His late
+<pb n="18" facs="tcp:168920:12"/>
+Majeſty, and his two Houſes of Parliament,</hi> (of which three Eſtates, the goodly Structure of the Engliſh Govern<g ref="char:EOLhyphen"/>ment is compoſed.) The two walls of the building unhap<g ref="char:EOLhyphen"/>pily fell from the chief-corner-ſtone, which before held them together; and then there was no likelihood but that all would tumble; except ſome skilful hands might in<g ref="char:EOLhyphen"/>terpoſe, to cement them together. This was hopefully endeavoured, until ſome buſie <hi>Sword-men,</hi> preſuming they could handle the <hi>State-Trowel,</hi> as well as the <hi>Martial Sword,</hi> took the matter in their own hands, and in ſtead of building, deſtroyed and pulled down to the ground that moſt excellent <hi>Structure,</hi> which our wiſe Anceſtors left fra<g ref="char:EOLhyphen"/>med and fitted to our hands, and <hi>beautified with all the Or<g ref="char:EOLhyphen"/>naments of a moſt flouriſhing Kingdom, and all the moſt de<g ref="char:EOLhyphen"/>ſirable Immunities of the freeſt People.</hi> They left ſcarce a <hi>Pillar</hi> ſtanding, that was any ways uſeful to ſupport it. And the ſtones of the beſt uſe and worth, they all flung out of the building. Onely one <hi>crackt piece of that politick Fabrick</hi> they left in being, which, by a ſtrange Synechdo<g ref="char:EOLhyphen"/>che, ſtill retained the name of the whole: and theſe they made no further uſe of neither, then to <hi>pelt the Head of the Corner</hi> quite down withal. Which was done <hi>on that fatal day of the execrable Murther of the Lords Anointed; the ſaddeſt Day that ever</hi> England <hi>ſaw; it being an Act of the moſt abominableſt Treachery and <g ref="char:V">Ʋ</g>nfaithfulneſs that e<g ref="char:EOLhyphen"/>ver the Sun beheld.</hi>
+            </p>
+            <p>Well, this deſperate Turn being ſerved, our fooliſh builders in a while began to ſee a neceſſity of pulling down all that they had left ſtanding, and to enter upon freſh counſels of building all anew again. And here, to ſee our miſery ſo much the more, conſider,</p>
+            <p>Firſt, what a loſs we were at. After a tedious conteſt on pretence for King and Parliament, religion, laws and liberty, we had fairly ſought our ſelves out of all, having neither the one nor the other left unto us; But all ſwal<g ref="char:EOLhyphen"/>lowed up by the <hi>all-devouring ſword.</hi> There was only a <hi>name of religion left and owned by theſe dovourers.</hi> But it
+<pb n="19" facs="tcp:168920:12"/>
+proved but a <hi>name</hi> in the iſſue. <hi>A form, a vizor of God<g ref="char:EOLhyphen"/>lineſs.</hi> But it was not thick enough to cover the cove<g ref="char:EOLhyphen"/>touſneſs, pride, blaſphemy, ingratitude, wickedneſs, and treachery of thoſe in power, who went under that mask.</p>
+            <p>Secondly, conſider what an advantage there was of ſet<g ref="char:EOLhyphen"/>tling all again, and ſetting up the old and beſt frame of Goverment on firm foundations; and yet how fooliſhly this advantage was not laid hold of, but ſlighted, neglect<g ref="char:EOLhyphen"/>ed, and ſcorned. <hi>Our Royal Soverain, that now is,</hi> was <hi>a ſtone</hi> fitteſt to make <hi>the head of the Corner,</hi> of all that were to be found in the heap; as being, by the Law of God, and of this Nation, the undoubted heir of the Crown; and be<g ref="char:EOLhyphen"/>ing endued by God with ſuch regal abilities, as are not every where to be parallel'd. But (alas!) <hi>our fooliſh buil<g ref="char:EOLhyphen"/>ders</hi> would have none of him. And yet rather then not be <hi>building,</hi> they aſſayed to <hi>build without a foundation,</hi> ſet<g ref="char:EOLhyphen"/>ting up a <hi>linſey-woolſey Tent</hi> upon ſticks, ſirnamed a <hi>Par<g ref="char:EOLhyphen"/>liament, and the ſupreme authority.</hi> But that was quickly weather-beaten, and fell aſunder of it ſelf.</p>
+            <p>A Fabrick ſomewhat like the old, was (at length) re<g ref="char:EOLhyphen"/>ſolved on. <hi>But him, whom God had fitted to be the head of the Corner, they would none of.</hi> And therefore, by a new deviſed <hi>Inſtrument,</hi> they clap in a piece of <hi>Iron,</hi> inſtead of the <hi>true-corner-ſtone.</hi> And now the <hi>Government</hi> was rather <hi>forcibly crampt,</hi> then <hi>orderly joyned</hi> together. This <hi>Iron-piece</hi> held it by force a while: But it <hi>ruſted</hi> at laſt, and all came down again.</p>
+            <p>And now our builders might have had <hi>him, whom God had fitted to be the head of the Corner;</hi> But they rejected him ſtill, and put in a <hi>piece of ſoft clay</hi> in the room there<g ref="char:EOLhyphen"/>of; and pull'd it out again as unſerviceable, almoſt as ſoon as they put it in.</p>
+            <p>And yet <hi>him, whom God had fitted to be the head of the Corner,</hi> they would none of. All the skilful and conſci<g ref="char:EOLhyphen"/>entious workmen, that knew <hi>none would ſerve, but He,</hi> cryed ſhame upon theſe <hi>bungling builders.</hi> Yet ſo fooliſh
+<pb n="20" facs="tcp:168920:13"/>
+were they, as to let none meddle with the work, but them<g ref="char:EOLhyphen"/>ſelves. And though they did they knew not what, yet they would not give over. Like <hi>beſotted builders,</hi> they fall to building without a foundation again, but yet with ſome of the old ſtones, that before they had laid aſide, wherewith they reared up the <hi>old tottered wall of Demo<g ref="char:EOLhyphen"/>cracie,</hi> ſupporting it with a few ruſty ſwords; which with<g ref="char:EOLhyphen"/>drawing at their pleaſure, down it fell.</p>
+            <p>And yet <hi>he, whom God and the Laws had fitted to be the head of the Corner,</hi> would not ſerve their turn: And yet who nor what to have, they could not tell. At length they only <hi>tack'd a government together,</hi> for the preſent diſtreſs, with <hi>inſtruments part of Iron, and part of clay;</hi> ſome eaſie enough to be wrought to any mould, and ſome head<g ref="char:EOLhyphen"/>ſtrong enough to carry all by their own wills. This was ſuch a piece of <hi>botchery</hi> as every one condemned, and all cryed out of. And the people began to grow weary of their <hi>Taskers,</hi> or their <hi>Task-maſters</hi> rather, who would have <hi>pay</hi> too, though they proved ſuch <hi>ſorry builders.</hi> Whereupon ſome, who thought themſelves to be better builders of State, then <hi>ſword-men,</hi> outwitted them, out<g ref="char:EOLhyphen"/>worked them, over-powred them, and rook the work out of their hands.</p>
+            <p>And now we were where we were twice before; in as bad a labyrinth as ever. For neither would theſe, after ſo many ſucceſleſs attempts in laying the foundation of a Democracie, accept of <hi>him whom God had fitted to be the head of the Corner,</hi> till God himſelf took the work in hand, and by an unexpected providence, ſent in a ſupply of <hi>bet<g ref="char:EOLhyphen"/>ter builders,</hi> only to undo what they had been doing, ſo to make way for that mercy, which we now injoy.</p>
+            <p>Thus you have heard a ſad <hi>allegorical harangue of Eng<g ref="char:EOLhyphen"/>lands late miſery.</hi>
+            </p>
+            <p>See we now in the ſecond place, what is <hi>Englands preſent mercy. It is ſo</hi> (Chriſtians) we are like men that dream, when we ſpeak of it, as not knowing well <hi>how</hi> it ſhould be ſo, though we know it is ſo. <hi>The stone, which theſe
+<pb n="21" facs="tcp:168920:13"/>
+fooliſh builders have rejected all this while, is at the head of the Corner, at firm and full agreement with both the honoura<g ref="char:EOLhyphen"/>ble Houſes of Parliament.</hi> He whom they thought not fit to have any pottion with us, is returned to the inheri<g ref="char:EOLhyphen"/>tance of the Lord. He whom they drave, as much as lay in them, upon temptations to embrace the abominations of Popery, (as being beholding to ſtrangers to the Re<g ref="char:EOLhyphen"/>formed religion for his <hi>Ziklag</hi> or place of abode) is re<g ref="char:EOLhyphen"/>turned ſafe and ſound from ſuch pollutions, and confirmed againſt them. <hi>He,</hi> whoſe life hath been ſought after as was his Fathers; He, who was hunted from place to place, as unworthy to reſt any where, <hi>He is, verily he is</hi> at the <hi>head of the Corner. He,</hi> whoſe right it is, <hi>He,</hi> in whom alone, under God, we could look for an hopeful, and hap<g ref="char:EOLhyphen"/>py, and laſting ſettlement, <hi>He</hi> is at the <hi>head of the Corner.</hi> Not only <hi>King in Hebron,</hi> but King in <hi>Jeruſalem.</hi> Not only <hi>King at Scone,</hi> but <hi>King at Weſtminſter.</hi> All the tribes of <hi>England, Scotland,</hi> and <hi>Ireland</hi> are United in him. The whole frame of our Antient Government is reſettled, and the <hi>topſtone</hi> laid, and all the people crying, <hi>Grace, grace,</hi> un<g ref="char:EOLhyphen"/>to it. <hi>This is the Lords doing, and it is marvellous in our eyes. This is the day which the Lord hath made, we will be glad and rejoyce therein,</hi> &amp;c.</p>
+            <p>What muſt now be done (beloved) upon the income of ſuch a mercy? What! but reſolve to joyn with your King, and praiſe the Lord. <hi>Let Iſrael now ſay, that his mer<g ref="char:EOLhyphen"/>cy endureth for ever: let the Houſe of Aaron now ſay, that his mercy endureth for ever: let them now that fear the Lord ſay, that his mercy endureth for ever.</hi> Let every one of you now fall in with your parts in the praiſes of God for this days mercy. There be but four, and all in the Text. I ſhall but briefly touch upon them, and diſmiſs you.</p>
+            <p>The Firſt thing obſervable in the peoples part, is their acknowledgement of the hand of God in this providence, and their admiration at the ſtrangeneſs of it. <hi>This is the Lords doing, and it is marvellous in our eyes.</hi>
+            </p>
+            <p>The Pſalmiſt brings the godly in, acknowledging this exaltation of <hi>David</hi> to the throne of <hi>Iſrael,</hi> to be the Lords doing. And ſo muſt you concerning the exaltation of
+<pb n="22" facs="tcp:168920:14"/>
+               <hi>Our David</hi> to the throne of <hi>England.</hi> Let all that fear the Lord ſay, <hi>This is the Lords doing,</hi> the ſinger of God is here. This can be no other then the hand of God. For though this was ſo deſirable a mercy; yet to humane reaſon, it was next to impoſſible not many months ago. Should one have propheſied of it, you would have ſaid with <hi>Nicodemus</hi> in another caſe; <hi>How can theſe things be?</hi> Powerful and fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cible attempts to bring this mercy about, have been in vain. Our Armies by ſea &amp; land, abroad and at home, were profeſſedly engaged in buil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing ſome of the <hi>Babels</hi> of conf<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion before mentione: a great part of the land were ſinfully engaged another way, for fear of loſing what they had unjuſtly gotten. And yet all theſe powers are over-powred, not by might not by power, but by the Spi<g ref="char:EOLhyphen"/>rit of the Lord. T<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>very hearts</hi> of all men are ſtrangely ſub<g ref="char:EOLhyphen"/>dued to this p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ovidence. Surely this is the Lords doing. And by good experience now we know, that the hearts of all men are in the h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd of God, who can turn them whi<g ref="char:EOLhyphen"/>therſoever he pleaſeth.</p>
+            <p>Further, the Pſalmiſt brings in the godly admiring at this ſtrange providence. To ſee all things work ſo, to bring <hi>Da<g ref="char:EOLhyphen"/>vid</hi> in, a man that had been ſo hated, vilified, and oppoſed, this was ſtrange to them. And how can you but look on this return of <hi>our David,</hi> as moſt <hi>marvellous?</hi> conſidering,</p>
+            <p>Firſt, the unlikelyhood of the change in divers reſpects: as in reſpect of the force that was kept upon his ſubjects at home, ſo that the prudenteſt were fain to keep ſilence, ſcarce daring for many years to impart their affections and deſires to one another (there was ſuch treac<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery and un<g ref="char:EOLhyphen"/>faithfulneſs, and ſuch lurkings to ſup<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lant the innocent without a cauſe, and to make them offenders for a word; as alſo in reſpect of the long time of his Majeſties exile. He was kept twelve vears out of his royal City; <hi>David</hi> but ſe<g ref="char:EOLhyphen"/>ven and an half out of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eruſalem.</hi> His cauſe lay ſtark dead in a mann<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s a forgotten buſineſs. There was ſcarce any life left in it. His return is as a reſurrection from the dead, a making of dead bones to live. <hi>Our David</hi> had no footing in the <hi>Kingdom</hi> he was by God deſigned unto: whereas <hi>Iſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l's David</hi> was King in <hi>Hebron</hi> all that 7 years, &amp; in a near<g ref="char:EOLhyphen"/>er
+<pb n="23" facs="tcp:168920:14"/>
+capacity to recover the Kingdom over all <hi>Iſrael</hi> in time.</p>
+            <p>2. It is <hi>marvellous,</hi> in reſpect of the <hi>ſuddenneſs</hi> of it. It was but the other day, that ſome few <hi>intemperate</hi> men were about to <hi>abjure</hi> the royal line. But behold, how quickly is the ſeoene changed! Allegiance and Loyalty dates ſhew its face, when Treaſon and Re<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ellion flees into corners.</p>
+            <p>3. It is <hi>marvelous</hi> in reſpect of the <hi>peaceableneſs</hi> of it: all this is done without the effuſion of blood: ſome may be ſpilt by the ſword of Juſtice; the land will be defiled with blood elſe. But we truſt our warfare is accompliſhed, that our ſwords are turning into plowſhares, and our ſpears in<g ref="char:EOLhyphen"/>to p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uning hooks. <hi>This muſt needs be the Lords doing, and it is marveious in our eyes.</hi>
+            </p>
+            <p>The ſecond thing obſervable in the peoples part, is their acclamations to the happineſs of that dayes Feſtival. <hi>This is the day which the Lord hath made:</hi> God makes every day; But he makes <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e dayes more notable then others, for his ſingular mercies in them: which onely is the mean<g ref="char:EOLhyphen"/>ing of this Expreſſion. That day of <hi>Davids Inſtauration,</hi> was ſuch a notable day in <hi>Iſrael.</hi> And on the like account ſurely the 29th day of <hi>May</hi> ſhould have a golden Cha<g ref="char:EOLhyphen"/>racter in our K<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lendars for his <hi>Majesties happy Restau<g ref="char:EOLhyphen"/>ration.</hi> And <hi>this day</hi> ſhould be reckoned for a good day, becauſe of the Opportunity which the King and Kingdom have, joyntly to celebrate the Memorials thereof.</p>
+            <p>The thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d thing obſervable in the peoples part, is, their hearty acceptation of the Kings Royal invitation to that days duty: <hi>We will rejoyce and be glad in it.</hi>
+            </p>
+            <p>Days of thankſgi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing for ſuch mercies as theſe, ſhould be days of rejoycing and gladneſs. When King <hi>Joaſh</hi> was re<g ref="char:EOLhyphen"/>ſtored to his Crown by means of his Aunt <hi>Jehoſheba,</hi> who had kept him from being murdered with the reſt of the Seed Royal, by <hi>Athalia,</hi> the text ſaith, <hi>All the people of the land re<g ref="char:EOLhyphen"/>joyced.</hi>
+               <note place="margin">2 King. 11. 20.</note> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is on all hands agreed, that ſuch a time as this, is a time of joy and gladneſs. Onely let me beſeech you to ſee your rejoycing be with <hi>ſobriety,</hi> not breaking out into ſin<g ref="char:EOLhyphen"/>ful intemperance, to the diſhonor of him who hath wrought theſe things for you. Let your rejoycing be a <hi>rejoycing in the Lord:</hi> ſuch as becometh ſaints, who mind nothing more then the bringing honour to God, by the joy which they ex<g ref="char:EOLhyphen"/>preſs
+<pb n="24" facs="tcp:168920:15"/>
+for mercies of any kind, which they receive from God. And, laſt of all, ſee that your joy and gladneſs for this dayes mercie, be ſeconded with Charity to the Poor: Make the bellies of the poor to rejoyce with you, that their loins may bleſs you, and that they may be able to call it <hi>a good day</hi> to them, as well as to their King, and thoſe of greater ability.</p>
+            <p>The laſt thing obſervable in the peoples part, is, their <hi>humble, hearty, and ſeaſonable ſupplications to God, for the pro<g ref="char:EOLhyphen"/>ſperity of the King and Kingdom.</hi> Each man is brought in, making this his prayer: <hi>O Lord, I beſecch thee:</hi> there's the <hi>humility</hi> of it; and this repeated again: <hi>Save I beſeech thee, O Lord: O Lord, I beſeech thee, ſend proſperity:</hi> there's the <hi>heartineſs</hi> of it. The words may be rendered, <hi>I beſeech thee,</hi> ſave <hi>I beſeech thee,</hi> O Lord: O Lord, <hi>I beſeech thee,</hi> ſend pro<g ref="char:EOLhyphen"/>ſperity <hi>I beſeech thee.</hi> The word which is here rendred <hi>now</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> in the T. being ſometimes of the ſame force with the other, that is rendered <hi>I beſeech</hi> thee. But take it as it is here fit<g ref="char:EOLhyphen"/>ly rendered, Save <hi>now,</hi> proſper <hi>now:</hi> there's the <hi>ſeaſonableneſs</hi> of it. With ſuch humble, hearty and earneſt ſupplications for the King and Kingdom, let every one of us follow the Lord this day, and henceforwards. Let every one of us have his <hi>Hoſanna</hi> up this day, as well as his <hi>Hallelujah.</hi> In the<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> moſt humble and earneſt manner, let us ply the throne of grace, for the continuance and improvement of this bleſ<g ref="char:EOLhyphen"/>ſing to us. <hi>Now, now</hi> is the time to ſtrike in with God. Save <hi>now,</hi> I beſeech thee: O Lord, I beſeech thee, proſper <hi>now.</hi> We could not look that God ſhould anſwer our prayers in this kind before. The nation was ſet upon a wrong bottom. We could not look then that God ſhould hear us, ſo long as we were ſo much out of the way.</p>
+            <p>Now that the Lord ſettled the Kingdom upon <hi>Foundations of righ<g ref="char:EOLhyphen"/>teouſneſs</hi> again, we may more rationally expect better ſucceſs in our prayers for peace, and truth, and ſalvation to our <hi>King</hi> and <hi>Kingdom.</hi> And therefore <hi>Now,</hi> if ever, follow the Lord, with continual prayers for a bleſſing upon the <hi>King, Church,</hi> and <hi>State,</hi> that theſe proſperous beginnings, may have good proceedings, and an happy concluſion; that the hearts of none may be made ſad, but all may rejoyce in this days mercy. <hi>Now,</hi> if ever, ply the <hi>King of Heaven</hi> with your pray<g ref="char:EOLhyphen"/>ers, that this may be a laſting ſettlement, improved by his Majeſty, and the whole <hi>Kingdom,</hi> to the honour of Gods name, the ſecuring of the purity and power of Religion, and the happy concord and unity of all that fear the Lo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and to this, let all the people ſay,</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
